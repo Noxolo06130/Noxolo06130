@@ -85,7 +85,8 @@ Durban University of Technology
 
 - [LinkedIn](https://www.linkedin.com/in/noxolo-sindane-9074a1382/)
 - [GitHub](https://github.com/Noxolo06130)
+- Email: Noxolosindane740@gmail.com
 
 ---
 
-*Always learning, building, and exploring how technology can solve real-world problems.*
+⭐ Feel free to explore my repositories to see my projects, documentation, and technical learning journey.
